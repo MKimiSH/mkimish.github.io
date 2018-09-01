@@ -1,5 +1,6 @@
 default:                                                      # Fallback if nothing is specified
   initial:      XZ                                            # used for author lookup in posts and for first two characters in the about page back button
+  identifier:   mkimish
   name:         "Xianyao Zhang"                               # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
@@ -25,6 +26,7 @@ default:                                                      # Fallback if noth
   reddit:                                                     # OPTIONAL: used in the about page
 mkimish:
   initial:      XZ
+  identifier:   mkimish
   name:         "Xianyao Zhang"       
   cover:        /assets/mountain-alternative-cover.jpg  
   picture:      /assets/zxy.png
@@ -35,6 +37,7 @@ mkimish:
   twitch:       
 xianyao:
   initial:      XZ
+  identifier:   xianyao
   name:         "Xianyao Zhang"
   picture:      /assets/zxy-cv.jpg
   bio:          How to see better?
@@ -44,6 +47,7 @@ xianyao:
   github:       MKimiSH
 jwillmer:
   initial:      jwillmer
+  identifier:   jwillmer
   name:         "Jens Willmer"        
   picture:      /assets/jwillmer.jpg  
   bio:          All about technology 

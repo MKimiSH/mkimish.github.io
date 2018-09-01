@@ -8,7 +8,7 @@
 
     {% assign counter = 0 %}
     {% for post in site.posts %}
-    {% unless post.draft or post.author != author.initial %}
+    {% unless post.draft or post.author != author.identifier %}
     {% assign counter = counter | plus: 1 %}
     {% endunless %}
     {% endfor %}
