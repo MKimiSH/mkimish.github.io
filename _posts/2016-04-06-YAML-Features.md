@@ -27,6 +27,7 @@ menutitle:         "YAML Features"
 
 I also added a redirect to this post. If you browse to [YAML-Feature-Redirect]({{ "/" | absolute_url}}YAML-Features-Redirect) you should be redirected to this page. This only works if you have not removed the plugins.
 
+
 ```bash
 ---
 redirect_from:     "/YAML-Features-Redirect"
@@ -101,6 +102,7 @@ comments:       true
 ```
 
 If you like to write some formula you can enable [MathJax](https://www.mathjax.org/). Go to the [theme feature post]({{ "/" | absolute_url}}blog/features/Features) to see it in action. You can find the [preprocessing options](http://docs.mathjax.org/en/latest/options/tex2jax.html#configure-tex2jax) in `_includes/mathjax_support.html`.
+
 
 ```bash
 ---        
