@@ -9,7 +9,7 @@ default:                                                      # Fallback if noth
   website:                          						  # OPTIONAL: link to the author of a post
   email:        xyzhang.qd@gmail.com                          # OPTIONAL: used in the about page
   twitter:                                                    # OPTIONAL: used in the about page
-  linkedin:                                                   # OPTIONAL: used in the about page
+  linkedin:     先耀-张-733301110                              # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
   github:       MKimiSH                                       # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
@@ -32,7 +32,8 @@ mkimish:
   picture:      /assets/zxy.png
   bio:          Going around mines and minds.
   location:     Switzerland
-  email:        xyzhang.qd@gmail.com
+  github:       MKimiSH
+  email:        
   twitter:      
   twitch:       
 xianyao:
@@ -42,9 +43,11 @@ xianyao:
   picture:      /assets/zxy-cv.jpg
   bio:          How to see better?
   location:     Switzerland
-  website:      
+  website:      mkimish.github.io
+  email:        xyzhang.qd@gmail.com
   twitter:      
   github:       MKimiSH
+  linkedin:     先耀-张-733301110                              # OPTIONAL: used in the about page
 jwillmer:
   initial:      jwillmer
   identifier:   jwillmer
