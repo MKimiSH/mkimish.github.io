@@ -20,8 +20,8 @@ Sometimes I have to do some Excel operations. They say it is not good to show th
 `trend([known_y], [known_x], new_x)` performs (least square) line fitting on `known_y` and `known_x` as $$y=ax+b$$ and predicts the $$y$$ value of `new_x`.
 
 ### Shortcuts and quick settings
-* Recalculte all formulae: `Ctrl+Alt+Shift+F9`.
-* Automatic column width (or row height) for multiple columns (rows): `Home->Cells->Format->Click`!
+* 重新计算所有公式, recalculate all formulae: `Ctrl+Alt+Shift+F9`.
+* 多列/行自动列宽/行高, automatic column width (or row height) for multiple columns (rows): `Home->Cells->Format->Click`!
 
 
 (Background image credit: <a href="https://www.youtube.com/watch?v=6_yylg0J-14" target="_blank">video</a>)
