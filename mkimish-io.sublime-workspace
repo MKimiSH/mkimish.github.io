@@ -12,38 +12,55 @@
 	"buffers":
 	[
 		{
-			"file": "gh-pages.sublime-project",
+			"file": "_pages/cv.html",
 			"settings":
 			{
-				"buffer_size": 313,
+				"buffer_size": 4070,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "robots.txt",
+			"file": "_posts/2018-09-01-Git-Tips.md",
 			"settings":
 			{
-				"buffer_size": 55,
+				"buffer_size": 1828,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_config.yml",
+			"file": "_posts/2018-09-02-excel-tips.markdown",
 			"settings":
 			{
-				"buffer_size": 1390,
+				"buffer_size": 1010,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": ".gitignore",
+			"file": "_pages/about.md",
 			"settings":
 			{
-				"buffer_size": 76,
+				"buffer_size": 1931,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/M.K.S.H/校招19/temp.txt",
+			"settings":
+			{
+				"buffer_size": 937,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/M.K.S.H/angel/0902/cal_uncertainty_k.m",
+			"settings":
+			{
+				"buffer_size": 923,
 				"line_ending": "Windows"
 			}
 		}
@@ -93,10 +110,39 @@
 	"expanded_folders":
 	[
 		"/C/M.K.S.H/blog/jekyllMKSH",
+		"/C/M.K.S.H/blog/jekyllMKSH/_data",
+		"/C/M.K.S.H/blog/jekyllMKSH/_drafts",
+		"/C/M.K.S.H/blog/jekyllMKSH/_includes",
+		"/C/M.K.S.H/blog/jekyllMKSH/_pages",
 		"/C/M.K.S.H/blog/jekyllMKSH/_posts"
 	],
 	"file_history":
 	[
+		"/C/Users/sherl/Documents/MobaXterm/slash/RemoteFiles/3479758_2_8/tungsten_validation_1spp_merged.json",
+		"/C/Users/sherl/Documents/MobaXterm/slash/RemoteFiles/3479758_2_7/tungsten_train_1spp_merged.json",
+		"/C/Users/sherl/Documents/MobaXterm/slash/RemoteFiles/3479758_2_6/tungsten_test_1spp_merged.json",
+		"/C/Users/sherl/Documents/MobaXterm/slash/RemoteFiles/3479758_2_5/tungsten_validation_1spp_samples.json",
+		"/C/Users/sherl/Documents/MobaXterm/slash/RemoteFiles/3479758_2_3/tungsten_train_1spp_samples.json",
+		"/C/M.K.S.H/blog/jekyllMKSH/mkimish-io.sublime-project",
+		"/C/M.K.S.H/blog/jekyllMKSH/_posts/2018-09-01-Git-Tips.md",
+		"/C/Users/sherl/Documents/MobaXterm/slash/RemoteFiles/3479758_2_1/tungsten_test_1spp_samples.json",
+		"/C/Users/sherl/Documents/MobaXterm/slash/RemoteFiles/3479758_2_4/tungsten_validation_1spp_merged.json",
+		"/C/M.K.S.H/blog/jekyllMKSH/_data/authors.yml",
+		"/C/Users/sherl/Documents/MobaXterm/slash/RemoteFiles/3479758_2_2/tungsten_train_1spp_merged.json",
+		"/C/Users/sherl/Documents/MobaXterm/slash/RemoteFiles/3479758_2_0/tungsten_test_1spp_merged.json",
+		"/C/M.K.S.H/blog/jekyllMKSH/_data/cv.yml",
+		"/C/M.K.S.H/blog/jekyllMKSH/_pages/about.md",
+		"/C/M.K.S.H/blog/jekyllMKSH/_posts/2016-04-06-YAML-Features.md",
+		"/C/M.K.S.H/blog/jekyllMKSH/_config.yml",
+		"/C/M.K.S.H/blog/jekyllMKSH/_includes/authorinfo.html",
+		"/C/M.K.S.H/blog/jekyllMKSH/_drafts/2016-03-05-Content.md",
+		"/C/M.K.S.H/blog/jekyllMKSH/_drafts/2016-06-08-Readme.md",
+		"/C/M.K.S.H/blog/jekyllMKSH/.gitignore",
+		"/C/M.K.S.H/blog/jekyllMKSH/robots.txt",
+		"/C/M.K.S.H/blog/jekyllMKSH/_sass/post.scss",
+		"/C/M.K.S.H/blog/jekyllMKSH/_layouts/post.html",
+		"/C/M.K.S.H/blog/jekyllMKSH/_posts/2018-09-01-aaa.markdown",
+		"/C/M.K.S.H/blog/jekyllMKSH/gh-pages.sublime-project",
 		"/C/M.K.S.H/blog/jekyllMKSH/Gemfile",
 		"/C/M.K.S.H/blog/jekyllMKSH/Gemfile.lock",
 		"/C/Users/sherl/.ssh/id_rsa.pub",
@@ -199,32 +245,7 @@
 		"/C/M.K.S.H/ETH/CodeJam/Candies/out_my.out",
 		"/C/M.K.S.H/ETH/CodeJam/Candies/test0.in",
 		"/F/Aphtodite/投稿/能源数据/ener_cook_heat.m",
-		"/C/M.K.S.H/ETH/CIL/Project/report/predictions/postprocessing.py",
-		"/C/M.K.S.H/angel/审稿人/03159y-reviewers-2nd.txt",
-		"/C/M.K.S.H/angel/审稿人/03159y-reviewers-update.txt",
-		"/C/M.K.S.H/angel/审稿人/03159y-reviewers-1st.txt",
-		"/C/Users/sherl/Desktop/expired-output",
-		"/C/Users/sherl/Desktop/Learn CUDA/CUDA-CODE/imflipG.cu",
-		"/C/M.K.S.H/angel/审稿人/03088j-reviewers.txt",
-		"/C/M.K.S.H/angel/审稿人/03088j-reviewers-1st.txt",
-		"/C/M.K.S.H/angel/审稿人/03159y-reviewers.txt",
-		"/E/WeChat Files/WeChat Files/sherlock_1195/Files/2018年6月29日14-43-58TLT7T.xls",
-		"/E/WeChat Files/WeChat Files/sherlock_1195/Files/地级市燃料结构与用量.xlsx",
-		"/C/Users/sherl/.ecmwfapirc",
-		"/C/M.K.S.H/ETH/Shape Modeling and Geometry Processing/gp18-MKimiSH/assignment6/README.md",
-		"/C/M.K.S.H/angel/审稿人/03088j-reviewers",
-		"/C/Users/sherl/Desktop/Learn CUDA/CUDA-CODE/imedgeG.cu",
-		"/C/M.K.S.H/angel/crawler/acs-crawler/README.md",
-		"/C/Users/sherl/Desktop/新建文本文档.txt",
-		"/C/M.K.S.H/ETH/Machine Perception/Project/eye-gaze-estimation/outputs/NearlyExampleNet/run5/network.txt",
-		"/C/Users/sherl/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-theme",
-		"/E/迅雷下载/下载合集/这些文件是什么？.txt",
-		"/E/迅雷下载/_grib2netcdf-atls18-a82bacafb5c306db76464bc7e824bb75-6Uaxko.nc.xltd.cfg",
-		"/C/M.K.S.H/angel/Solarized Dark.xcs",
-		"/C/M.K.S.H/ETH/Shape Modeling and Geometry Processing/guess-exam.md",
-		"/E/WeChat Files/WeChat Files/sherlock_1195/Files/ener_cook_heat.m",
-		"/C/M.K.S.H/angel/审稿人/016778-Proof-add.txt",
-		"/C/M.K.S.H/angel/审稿人/02245d-new.txt"
+		"/C/M.K.S.H/ETH/CIL/Project/report/predictions/postprocessing.py"
 	],
 	"find":
 	{
@@ -235,6 +256,7 @@
 		"height": 107.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -242,6 +264,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"redirect_from"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -259,53 +282,138 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "gh-pages.sublime-project",
+					"file": "_pages/cv.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 313,
+						"buffer_size": 4070,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								133,
-								133
+								425,
+								425
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "robots.txt",
+					"file": "_posts/2018-09-01-Git-Tips.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 55,
+						"buffer_size": 1828,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								55,
-								55
+								1828,
+								1828
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2018-09-02-excel-tips.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 24.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_pages/about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1931,
+								1931
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 544.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/M.K.S.H/校招19/temp.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								937,
+								937
 							]
 						],
 						"settings":
@@ -320,61 +428,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "_config.yml",
+					"buffer": 5,
+					"file": "/C/M.K.S.H/angel/0902/cal_uncertainty_k.m",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1390,
+						"buffer_size": 923,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								960,
-								960
+								504,
+								504
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Objective-C/Objective-C.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 76,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								76,
-								76
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -457,7 +535,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 188.0,
+	"side_bar_width": 271.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
