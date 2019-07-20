@@ -4,7 +4,7 @@ title:             "Excel Tips"
 menutitle:         "Excel Tips"
 date:              2018-09-04 22:40:00 +0200
 category:          Tips
-cover:             /assets/no-title-remix.jpg
+cover:             /assets/img/excel-1.jpg
 published:		   true
 author:            mkimish
 tags:              Tips on Excel
