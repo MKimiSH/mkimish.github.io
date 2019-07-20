@@ -4,7 +4,7 @@ layout:            post
 title:             "Denoising Monte-Carlo Renderings with Kernel Predicting Convolutional Network"
 menutitle:         "Denoising with Kernel Predicting Convolutional Network"
 date:              2018-11-04 22:40:00 +0100
-category:          Papers
+category:          Paper Reading
 cover:             /assets/KPCN/KPCN_teaser.png
 published:		   true
 author:            xianyao
