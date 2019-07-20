@@ -12,7 +12,7 @@ excerpt:   This page contains a more casual description of the author.
 
 I have recently finished my master studies in CS at ETH Zurich. In fact, I think Informatik sounds better than Computer Science. My passion lies in visual computing, specifically image synthesis and restoration, on either rendered or real-life images. I hope to be able to restore plausibly any sort of damage to an image, or to a sequence of images.
 
-A lot of my spare time is spent with my girlfriend (manually showing a heart :P ). Besides, I play 2 games: [osu!](https://osu.ppy.sh/home) and [minesweeper](http://www.minesweeper.info/worldranking.html). 
+A lot of my spare time is spent with my girlfriend (manually showing a heart :P) who also gives a lot of helpful advice on this website. Besides, I play 2 games: [osu!](https://osu.ppy.sh/home) and [minesweeper](http://www.minesweeper.info/worldranking.html). 
 
 This website is built out of the Jekyll theme [`jekyllDecent`](https://github.com/jwillmer/jekyllDecent).
 
