@@ -1,5 +1,5 @@
 xianyao:
-    profile: "I have recently finished my MSc studies at ETH Zurich in Computer science and will soon continue as a joint PhD student with the Computer Graphics Lab (CGL) at ETH and Disney Research|Studios (DRS), advised by Prof. Markus Gross and Dr. Marios Papas. I am interested in rendering techniques with path tracing and the application of machine learning techniques for better and faster rendering. "
+    profile: "I am a joint PhD student at Computer Graphics Lab, ETH Zurich and Disney Research|Studios, advised by Prof. Markus Gross and Dr. Marios Papas. I am interested in rendering techniques with path tracing and the application of machine learning techniques for better and faster rendering of scenes with high geometry and light transport complexity. "
     education:
         - time:             "2019.08 - present"
           location:         "ETH Zurich and Disney Research|Studios, Zurich, Switzerland"
@@ -59,8 +59,9 @@ xianyao:
           institution:      "Department of Computer Science, ETH Zurich"
           course:           "Computer Graphics"
           instructor:       "Dr. Jan Novak, Prof. Markus Gross"
+          website:          "https://cgl.ethz.ch/teaching/cg18/home.php"
           responsibilities:
-            - "Master-level course of computer graphics, focusing on (physically-based) rendering"
+            - "Master-level course of computer graphics, covering a spectrum of areas in CG with a focus on physically-based rendering"
         - time:             "2016.09 - 2017.01"
           position:         "Teaching Assistant"
           institution:      "School of EECS, Peking University"
