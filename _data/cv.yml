@@ -39,22 +39,22 @@ xianyao:
           responsibilities: 
             - "Implementation of an algorithm to locate multiple matches of a template in a single target image"
             - "Combination of several previous methods to reach high accuracy and speed"
-        - time:             "2016.09 - 2017.03"
-          laboratory:       "Key Laboratory of Machine Perception (MoE), Peking University"
-          position:         "Research Assistant"
-          advisor:          "Prof. Zhihong Deng"
-          responsibilities: 
-            - "Design of a Destroyer-Versus-Discriminator model to detect adversarial examples"
-            - "Cooperation with Haokun Liu"
+        # - time:             "2016.09 - 2017.03"
+        #   laboratory:       "Key Laboratory of Machine Perception (MoE), Peking University"
+        #   position:         "Research Assistant"
+        #   advisor:          "Prof. Zhihong Deng"
+        #   responsibilities: 
+        #     - "Design of a Destroyer-Versus-Discriminator model to detect adversarial examples"
+        #     - "Cooperation with Haokun Liu"
         - time:             "2015.12 - 2016.11"
-          laboratory:       " National Engineering Laboratory for Video Technology, Peking University"
+          laboratory:       "National Engineering Laboratory for Video Technology, Peking University"
           position:         "Research Assistant"
           advisor:          "Prof. Yizhou Wang"
           responsibilities: 
             - "Application of generative adversarial networks to video inpainting, achieving plausible results"
             - "Collection of training and testing clips from news program"
     teaching:
-        - time:             "2018.09 - 2019.01"
+        - time:             "Fall 2018/2019/2020"
           position:         "Teaching Assistant"
           institution:      "Department of Computer Science, ETH Zurich"
           course:           "Computer Graphics"
@@ -62,7 +62,7 @@ xianyao:
           website:          "https://cgl.ethz.ch/teaching/cg18/home.php"
           responsibilities:
             - "Master-level course of computer graphics, covering a spectrum of areas in CG with a focus on physically-based rendering"
-        - time:             "2016.09 - 2017.01"
+        - time:             "Fall 2016"
           position:         "Teaching Assistant"
           institution:      "School of EECS, Peking University"
           course:           "Introduction to Computation (B)"
