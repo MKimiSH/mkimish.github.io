@@ -2,7 +2,7 @@ default:                                                      # Fallback if noth
   initial:      XZ                                            # used for author lookup in posts and for first two characters in the about page back button
   identifier:   mkimish
   name:         "Xianyao Zhang"                               # used to display author name
-  cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
+  cover:        /assets/night-road-sky-dark-1920-640.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
   bio:          How to see better?                            # OPTIONAL: text below author name in posts
   location:     Switzerland                                   # OPTIONAL: used to display location of the author
@@ -28,7 +28,7 @@ mkimish:
   initial:      XZ
   identifier:   mkimish
   name:         "Xianyao Zhang"       
-  cover:        /assets/mountain-alternative-cover.jpg  
+  cover:        /assets/night-road-sky-dark-1920-640.jpg  
   picture:      /assets/zxy.png
   bio:          Going around mines and minds.
   location:     Switzerland
@@ -40,6 +40,7 @@ xianyao:
   initial:      XZ
   identifier:   xianyao
   name:         "Xianyao Zhang"
+  cover:        /assets/morning-lights.jpg 
   picture:      /assets/zxy-cv.jpg
   bio:          How to see better?
   location:     Switzerland
