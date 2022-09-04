@@ -84,6 +84,8 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
+    wdm (0.1.1)
+    webrick (1.7.0)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -97,6 +99,8 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   kramdown-parser-gfm
+  wdm (>= 0.1.0)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.1.4

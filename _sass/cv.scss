@@ -142,17 +142,25 @@
 
 .md-card.project {
     .meta {
-        display: flex;
-        justify-content: space-between;
+        // display: flex;
+        // justify-content: space-between;
+        margin-bottom: 1em;
 
         .team {
-            color: #bbb;
+            color: #666;
+            font-size: 1.3rem;
         }
 
         .time {
             color: $color-cv-blue;
             font-size: 1.5rem;
             margin-left: 0.8rem;
+        }
+
+        .venue {
+            color: #999;
+            font-size: 1.3rem;
+            line-height: 1.3em;
         }
     }
 
@@ -168,7 +176,7 @@
         }
 
         li {
-            padding-right: 10px;
+            padding-right: 20px;
             list-style-type: none;
             font-weight: 600;
         }
@@ -227,7 +235,7 @@
         margin: 0 auto;
     }
 
-    .employment-heading, .academic-heading, .project-heading {
+    .employment-heading, .academic-heading, .project-heading, .publication-heading {
         page-break-before: always;
     }
 
