@@ -78,6 +78,25 @@ xianyao:
         #   responsibilities:
         #     - "Introductory course of C programming and algorithms for undergraduates"
     publications:
+        - title: "Deep Compositional Denoising on Frame Sequences"
+          time: "2023"
+          team: "<b>Xianyao Zhang</b>, Gerhard Röthlin, Marco Manzi, Markus Gross, Marios Papas"
+          website: "https://cgl.ethz.ch/publications/papers/paperZhan23a.php"
+          venue: "Eurographics Symposium on Rendering 2023 (<b>EGSR2023</b>), Industry Track"
+          contributions: 
+            - "Extending deep compositional denoising to produce high-quality and temporally stable frame sequences"
+            - "Sharing the per-frame decomposition results by applying motion compensation between decomposition and denoising"
+            - "Reducing RAM consumption by 8-bit quantization of intermediate tensors"
+          keywords: "Denoising, learned decomposition, temporal reuse, quantization"
+        - title: "Denoising Production Volumetric Rendering"
+          time: "2023"
+          team: "Shilin Zhu, <b>Xianyao Zhang</b>, Gerhard Röthlin, Marios Papas, Mark Meyer"
+          website: "https://graphics.pixar.com/library/VolumeDenoising/"
+          venue: "<b>SIGGRAPH 2023</b> Talks"
+          contributions: 
+            - "Using volume-specific features to enhance volume denoising in production"
+            - "Applying feature selection to detect the best feature set"
+          keywords: "Denoising, feature selection, volume rendering, production"
         - title: "Automatic Feature Selection for Denoising Volumetric Renderings"
           time: "2022"
           team: "<b>Xianyao Zhang</b>, Melvin Ott, Marco Manzi, Markus Gross, Marios Papas"
