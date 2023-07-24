@@ -1,5 +1,26 @@
 // Platzieren Sie Ihre Einstellungen in dieser Datei, um Standard- und Benutzereinstellungen zu überschreiben.
 {
     "files.autoSave": "onFocusChange",
-    "files.encoding": "utf8"
+    "files.encoding": "utf8",
+    "cSpell.words": [
+        "CGAL",
+        "CUDA",
+        "Dahlberg",
+        "EECS",
+        "Günther",
+        "Haokun",
+        "inpainting",
+        "Inpainting",
+        "Müller",
+        "Novák",
+        "Qinjian",
+        "RANSAC",
+        "TVCV",
+        "xianyao",
+        "Xianyao",
+        "Yizhou",
+        "Zhang",
+        "Zhihong",
+        "Zhouchen"
+    ]
 }
