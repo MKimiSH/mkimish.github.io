@@ -58,14 +58,14 @@ xianyao:
           position:         "Teaching Assistant"
           institution:      "Department of Computer Science, ETH Zürich"
           course:           "Computer Graphics"
-          instructor:       "Dr. Jan Novák, Prof. Markus Gross"
+          instructor:       "Dr. Marios Papas, Prof. Markus Gross (previously Dr. Jan Novák and Prof. Markus Gross)"
           website:          "https://cgl.ethz.ch/teaching/cg22/home.php"
           responsibilities:
             - "Master-level course of computer graphics, covering a spectrum of areas in CG with a focus on physically-based rendering"
         - time:             "Spring 2020/21/22"
           position:         "Teaching Assistant"
           institution:      "Department of Computer Science, ETH Zürich"
-          course:           "Scientific Visualization"
+          course:           "Scientific Visualization (previously Visualization)"
           instructor:       "Prof. Tobias Günther, Prof. Markus Gross"
           website:          "https://cgl.ethz.ch/teaching/visualization22/home.php"
           responsibilities:
