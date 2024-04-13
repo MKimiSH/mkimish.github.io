@@ -75,8 +75,9 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
         <div class="timeline-content">
             <div class="time">{{academic.time}}</div>
             <h3>{{academic.position}}</h3>
-            <span>{{academic.laboratory}}</span></br>
-            <span>Supervisor: {{academic.advisor}}</span>
+            @ <span>{{academic.laboratory}}</span></br>
+            Supervisor: <span>{{academic.advisor}}</span></br>
+            Project: <span>{{academic.project}}</span>
             <ul>
                 {% for responsibility in academic.responsibilities %}
                 <li>{{responsibility}}</li>
@@ -96,10 +97,10 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
         <div class="time">{{teaching.time}}</div>
         <div class="timeline-content">
             <div class="time">{{teaching.time}}</div>
-            <h3>{{teaching.position}}</h3></br>
-            <h4>{{teaching.course}}</h4>
-            <span>{{teaching.institution}}</span></br>
-            <span>Instructor(s): {{teaching.instructor}}</span>
+            <h3>{{teaching.course}}</h3>
+            <span>{{teaching.position}}</span>
+            @ <span>{{teaching.institution}}</span></br>
+            Instructor(s): <span>{{teaching.instructor}}</span>
             <ul>
                 {% for responsibility in teaching.responsibilities %}
                 <li>{{responsibility}}</li>

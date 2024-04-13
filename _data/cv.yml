@@ -1,7 +1,7 @@
 xianyao:
-    profile: "I am a joint PhD student at Computer Graphics Lab, ETH Zürich and DisneyResearch|Studios, advised by Prof. Markus Gross and Dr. Marios Papas. I am interested in rendering techniques with path tracing and the application of machine learning techniques for better and faster rendering of scenes with high geometry and light transport complexity. "
+    profile: "I am an Associate Research Scientist at DisneyResearch|Studios, Zürich, Switzerland. Prior to joining Disney as an employee, I was a joint PhD student at Computer Graphics Lab, ETH Zürich and DisneyResearch|Studios, advised by Prof. Markus Gross and Dr. Marios Papas. I am interested in rendering algorithms with path tracing as well as the application of machine learning techniques to improve rendering efficiency. "
     education:
-        - time:             "2019.08 - present"
+        - time:             "2019.08 - 2024.03"
           location:         "ETH Zürich and DisneyResearch|Studios, Zürich, Switzerland"
           description:      "Joint PhD student in Computer Science"
         - time:             "2017.09 - 2019.07"
@@ -11,11 +11,17 @@ xianyao:
           location:         "Peking University, Beijing, China"
           description:      "BSc in Intelligence Science and Technology (with distinction)"
     skills:
-        - "Proficient: python, C/C++, MATLAB"
-        - "Toolboxes: TensorFlow, OpenCV, Torch, CGAL"
-        - "Familiar: LaTeX, HTML, JavaScript, CUDA C/C++"
-        - "Languages: English (professional), Mandarin Chinese (native)"
+        - "Programming - proficient: Python, C/C++, MATLAB"
+        - "Programming - familiar: LaTeX, HTML, JavaScript, CUDA C/C++"
+        - "Toolboxes and libraries: TensorFlow, Dash/Plotly, Pandas, OpenCV, Torch, CGAL"
+        - "Languages: English (professional), Mandarin Chinese (native), German (intermediate)"
     employment:
+        - time:             "2024.04 - present"
+          location:         "Zürich"
+          company:          "DisneyResearch|Studios"
+          position:         "Associate Research Scientist"
+          responsibilities:
+            - "Research interest: physically based rendering, deep learning, image processing"
         - time:             "2018.04 - 2018.09"
           location:         "Zürich"
           company:          "Disney Research"
@@ -25,10 +31,19 @@ xianyao:
             - "Generation of datasets"
             - "Training and testing different network structures"
     academic:
+        - time:             "2019.08 - 2024.03"
+          laboratory:       "Computer Graphics Lab, ETH Zürich and DisneyResearch|Studios"
+          position:         "Doctoral Research Assistant"
+          advisor:          "Prof. Dr. Markus Gross, Dr. Marios Papas"
+          project:          "(Dissertation) Denoising Monte Carlo Renderings: a Sub-Pixel Exploration with Deep Learning"
+          responsibilities: 
+            - "More effective deep learning techniques for denoising Monte Carlo renderings"
+            - "Using sub-pixel information and techniques including decomposition, auxiliary features and depth separation"
         - time:             "2018.11 - 2019.05"
           laboratory:       "Computer Graphics Lab, ETH Zürich"
           position:         "Master Thesis"
           advisor:          "Dr. Marios Papas, Thomas Müller, Thijs Vogels"
+          project:          "Denoising Radiance Samples in Scene Space with Order-Independent Neural Networks"
           responsibilities: 
             - "Design and Implementation of an algorithm to filter raw radiance samples in scene space using neural networks"
             - "Exploration of appropriate network architecture"
@@ -36,6 +51,7 @@ xianyao:
           laboratory:       "Key Laboratory of Machine Perception (MoE), Peking University"
           position:         "Bachelor Thesis"
           advisor:          "Prof. Zhouchen Lin"
+          project:          "Fast Multiple Affine Template Matching"
           responsibilities: 
             - "Implementation of an algorithm to locate multiple matches of a template in a single target image"
             - "Combination of several previous methods to reach high accuracy and speed"
@@ -50,6 +66,7 @@ xianyao:
           laboratory:       "National Engineering Laboratory for Video Technology, Peking University"
           position:         "Research Assistant"
           advisor:          "Prof. Yizhou Wang"
+          project:          "Video Inpainting with GAN"
           responsibilities: 
             - "Application of generative adversarial networks to video inpainting, achieving plausible results"
             - "Collection of training and testing clips from news program"
@@ -58,14 +75,15 @@ xianyao:
           position:         "Teaching Assistant"
           institution:      "Department of Computer Science, ETH Zürich"
           course:           "Computer Graphics"
-          instructor:       "Dr. Marios Papas, Prof. Markus Gross (previously Dr. Jan Novák and Prof. Markus Gross)"
+          instructor:       "Dr. Marios Papas, Prof. Markus Gross"
           website:          "https://cgl.ethz.ch/teaching/cg22/home.php"
           responsibilities:
             - "Master-level course of computer graphics, covering a spectrum of areas in CG with a focus on physically-based rendering"
-        - time:             "Spring 2020/21/22"
+            - "Head TA for 2019-2022, responsible for general organization of the course"
+        - time:             "Spring 2020/21/22/23"
           position:         "Teaching Assistant"
           institution:      "Department of Computer Science, ETH Zürich"
-          course:           "Scientific Visualization (previously Visualization)"
+          course:           "Scientific Visualization"
           instructor:       "Prof. Tobias Günther, Prof. Markus Gross"
           website:          "https://cgl.ethz.ch/teaching/visualization22/home.php"
           responsibilities:

@@ -3,5 +3,6 @@ _site
 .sass-cache
 .jekyll-metadata
 /.vs
+/.vscode
 gh-pages.*
 *sublime-project*
